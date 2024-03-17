@@ -2,6 +2,7 @@
 user_input = input("Please enter something: ")
 print("You entered:", user_input)
 
+#Adding a new method 
 def new_method():
     print("This is the new method!")
     user_input = input("Please enter something: ")
